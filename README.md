@@ -205,7 +205,7 @@ To change **UI**, you have to open the _Control Center_ class and change the val
   
     ```xml
         <string-array name="your_list">
-            <item>Item 1</item>
+            <item>Item 1<7/item>
             <item>Item 2</item>
             <item>Item 3</item>
             <item>Item 4</item>
